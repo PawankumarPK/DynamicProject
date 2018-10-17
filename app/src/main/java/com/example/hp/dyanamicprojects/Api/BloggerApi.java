@@ -36,5 +36,6 @@ public class BloggerApi {
         @GET("?key=" + key)
         Call<PostList> getPostList();
     }
+    //kotlin
 
 }
